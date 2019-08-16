@@ -46,7 +46,7 @@ class Menu extends React.Component {
         }
  
         /**
-         * 修改菜单打开收起状态
+         * 修改菜单打开收起状态 
          * @param {选中的菜单} item 
          */
         function changeChvron(item){
