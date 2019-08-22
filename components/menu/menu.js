@@ -78,12 +78,9 @@ class Menu extends React.Component {
         }
       return (
           <ScrollView style={styles.menu}>
-              <Text>sss</Text>
              { 
                renderItme(this.props.store.menu)
              }
-           
-            
         </ScrollView>
          
       );  
